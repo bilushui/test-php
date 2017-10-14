@@ -4,3 +4,4 @@
 	echo 'zhangsan was punished';
 	echo 'lisi test';
 	echo 'zhaoliu comes too';
+	echo 'no no no too';
